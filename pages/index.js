@@ -10,8 +10,8 @@ export default function Home() {
       <Head>
         <title>Early stage investor. salamander.vc</title>
         <link rel="icon" href="/favicon.ico" />
-        <Analytics/>
       </Head>
+      <Analytics/>
       <main>
         <Header title="salamander.vc" />
         <p className="description">
