@@ -15,7 +15,11 @@ export default function Home() {
       <main>
         <Header title="salamander.vc" />
         <p className="description">
-          Backing great founders & companies<code>intro@salamander.vc</code></p>
+          Backing great founders & companies
+        </p>
+        <p className="description">
+        <code>intro@salamander.vc</code>
+        </p>
       </main>
       <Footer />
     </div>
