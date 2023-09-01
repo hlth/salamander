@@ -35,3 +35,19 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+a {
+  color: #333333;
+  text-decoration:none;
+}
+
+a:visited {
+  color: #0d875c;
+  text-decoration: none;
+
+}
+
+a:clicked {
+  color: #FFFFF0;
+  text-decoration: none;
+}
